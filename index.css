@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: 'Jost', Arial, Helvetica, sans-serif;
+}
+
+::selection {
+    color: white;
+    background-color: #bc986b;
+}
+
+/* ----------------------- Navbar ---------------------------- */
+
+a {
+    text-decoration: none;
+}
+
+.nav-link,
+a {
+    color: #151515;
+}
+
+.nav-link:hover,
+.upper-head i:hover {
+    color: #bc986b;
+}
+
+/* ----------------------- Our Services ---------------------------- */
+
+.our-services div {
+    border-color: #f3f4f986;
+}
+
+.our-services i {
+    color: #bc986b;
+}
+
+.our-services p {
+    color: #9a9a9a;
+    text-align: justify;
+}
+
+/* ----------------------- Listings by Category ---------------------------- */
+
+.list-categ div div {
+    background-size: cover;
+    height: 400px;
+    border-radius: 10px;
+    color: white;
+}
+
+.list-cat-button {
+    background-color: #bc986b;
+    color: white;
+}
+
+.list-cat-img-1 {
+    background-image: url(images/apartment.jpg);
+}
+
+.list-cat-img-2 {
+    background-image: url(images/farmhouses.jpg);
+}
+
+.list-cat-img-3 {
+    background-image: url(images/duplexes.jpg);
+}
+
+.list-cat-img-4 {
+    background-image: url(images/villa.jpg);
+}
+
+.list-cat-img-5 {
+    background-image: url(images/office.jpg);
+}
+
+.list-cat-img-6 {
+    background-image: url(images/bungalow.jpg);
+}
+
+/* ----------------------- Latest Properties ---------------------------- */
+
+.latest-prop i {
+    color: #bc986b;
+}
+
+.latest-prop-col,
+.latest-prop .col-6 {
+    color: #5f5f5f;
+}
+
+.latest-prop-loc {
+    color: #bc986b;
+}
+
+/* ------------------- Testimonial Cards ------------------ */
+
+.testi-cards i {
+    color: #ffc662;
+}
+
+/* ------------------- Contact / Input ------------------ */
+
+.form input,
+.form select {
+    background-color: #494a53;
+    color: white;
+    border: none;
+    outline: none;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: white;
+}
+
+/* ------------------- Footer ------------------ */
+
+footer,
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: #bc986b;
+}
+
+footer i {
+    color: #bc986b;
+}
+
+footer i:hover {
+    color: #ffc662;
+}
+
+footer ul li {
+    list-style-type: none;
+}
+
+footer input {
+    border-radius: 0px;
+    background-color: #494a53;
+    color: white;
+    border: none;
+    outline: none;
+}
+
+footer button {
+    border: none;
+    height: 40px;
+    background-color: #bc986b;
+    color: white;
+}
+
+/* ------------------- **** Card CSS Starts Here **** ------------------ */
+
+/* ------------------- Card Main Upper Heading/Location ------------------ */
+
+.card-upper-head p {
+    color: #bc986b;
+}
+
+/* ------------------- Card About Container ------------------ */
+
+.card-about,
+.card-about a {
+    color: #5f5f5f;
+}
+
+.card-about i {
+    color: #bc986b;
+}
+
+.card-about ul li {
+    list-style: none;
+    text-align: left;
+}
+
+/* ------------------- Card About Section Headings ------------------ */
+
+.card-about-head {
+    color: #bc986b;
+}
+
+/* ------------------- Card Left Section Contact Form ------------------ */
+
+.card-form input,
+.card-form textarea {
+    background-color: #494a53;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+
+/* ------------------- Card Right Section Contact Form ------------------ */
+
+.about-right-form {
+    position: sticky;
+    top: 10px;
+}
+
+.about-right-form input,
+.about-right-form textarea {
+    background-color: #494a53;
+    color: white;
+    border: none;
+    outline: none;
+}
+
+/* ------------------- About Us Page ------------------ */
+
+.about-page,
+.about-page a {
+    color: #5f5f5f;
+}
