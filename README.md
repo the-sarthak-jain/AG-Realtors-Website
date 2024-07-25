@@ -14,7 +14,7 @@ This project is a modern, responsive HTML/CSS website for AG Realtors. It showca
 
 ## Live Demo
 
-Check out the live demo: [AG Realtors : Real Estate Agency](https://the-sarthak-jain.github.io/Rock-Paper-Scissors/)
+Check out the live demo: [AG Realtors : Real Estate Agency](https://the-sarthak-jain.github.io/AG-Realtors-Website/)
 
 ## Installation
 To get started with the project locally, follow these steps:
