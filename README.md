@@ -12,12 +12,16 @@ This project is a modern, responsive HTML/CSS website for AG Realtors. It showca
 - **Contact Information**: Easy-to-find contact details.
 - **Interactive Elements**: Enhancements for user engagement.
 
+## Live Demo
+
+Check out the live demo: [AG Realtors : Real Estate Agency](https://the-sarthak-jain.github.io/Rock-Paper-Scissors/)
+
 ## Installation
 To get started with the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/AG-Realtors-Website.git
+   git clone https://github.com/the-sarthak-jain/AG-Realtors-Website.git
    ```
 
 2. **Navigate to the Project Directory**:
