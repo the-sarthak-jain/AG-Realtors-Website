@@ -61,7 +61,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
    On GitHub, go to the **Pull Requests** tab and click **New Pull Request**.
 
 ## Contact
-For any inquiries or issues, please contact [Sarthak Jain](mail.sarthakjain@gmail.com).
+For any inquiries or issues, please contact [Sarthak Jain](mailto:mail.sarthakjain@gmail.com).
 
 ---
 
